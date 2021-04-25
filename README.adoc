@@ -1,0 +1,5 @@
+== Thermoacoustic Brain Decoder
+
+https://github.com/users/NeuroForLunch/projects/1[Track progress here.]
+
+https://github.com/NeuroForLunch/Thermoacoustic_Brain_Decoder/discussions[Discussion and input are welcome.]
