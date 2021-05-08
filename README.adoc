@@ -4,6 +4,8 @@ https://github.com/NeuroForLunch/Thermoacoustic_Brain_Decoder/projects/1[Track p
 
 https://github.com/NeuroForLunch/Thermoacoustic_Brain_Decoder/discussions[Discussion and input are welcome.]
 
+https://www.youtube.com/watch?v=p9B-00inv_s&list=PLlEDCd5b9NyUHHTL1vSeOkj_NwKK3dnCW&index=1[Video of Ultrasonic Pulses from Non-Contact Thermoacoustic Imaging recorded on an iPhone]
+
 image:diagram.png[]
 
 Note: Diagram is simplified and a work in progress.
